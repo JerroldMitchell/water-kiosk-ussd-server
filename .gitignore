@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+analytics_env/
+env/
+ENV/
+
+# Data files
+*.csv
+*.zip
+*.gzip
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# Environment variables
+.env
+.env.local
+
+# Sensitive files (uncomment if needed)
+# collection.json
